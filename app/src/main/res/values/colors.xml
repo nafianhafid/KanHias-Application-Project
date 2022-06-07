@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="majestic_mist">#9CA1B3</color>
+    <color name="naturally_calm">#CFD1DA</color>
+    <color name="midnight_spruce">#555B53</color>
+    <color name="alpine_frost">#E0DED2</color>
+    <color name="pearl_sugar">#F6F3EE</color>
+    <color name="hurricane_haze">#BDBBAD</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
