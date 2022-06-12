@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transactions",
+  "info": {
+    "singularName": "transaction",
+    "pluralName": "transactions",
+    "displayName": "Transaction"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::product.product"
+    },
+    "buy_amount": {
+      "type": "integer"
+    },
+    "total_price": {
+      "type": "biginteger"
+    },
+    "shipping_price": {
+      "type": "biginteger"
+    },
+    "total_all": {
+      "type": "biginteger"
+    }
+  }
+}
