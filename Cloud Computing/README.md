@@ -34,7 +34,7 @@ yarn develop
 
 Open this link : http://localhost:1337/admin to open Strapi dashboard and make your API of your choice
 
-## ⚙️ Deployment
+## Deployment
 
 We use Cloud Run to deploy the API . Here is the steps : 
 
