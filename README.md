@@ -3,7 +3,7 @@
 Bangkit Capstone Team ID : C22-PS290 <br>
 Here is our repository for Bangkit 2022 Capstone project.
 
-## Our Team :student:
+## Our Team
 
 |              Name              |   Learning Path    | Bangkit ID |
 | :----------------------------: | :----------------: | :--------: |
@@ -18,35 +18,8 @@ Here is our repository for Bangkit 2022 Capstone project.
 
 Kan Hias is Application of Prediction Koi Fish type and Marketplace for buying and selling koi fish
 
-## Datasets
+## How to Install
+You can download this application by accessing the link below. After it successfully downloaded, you can install it on you Android phone and use the application.
 
-Link Datasets of this project : https://www.kaggle.com/datasets/nafianmuh/koi-dataset
-
-## Deployment Link APK Kan Hias 
-
-# Deep learning Koi FIsh classification
-
-Kan Hias (especially in Koi Fish) classification using **convolutional neural network (CNN)** as feature extractor + softmax as classifier.
-
-Our [dataset](https://www.kaggle.com/datasets/nafianmuh/koi-dataset) consists of 10 Koi Fish classes where each images will **belong to exactly one class**:
-
-1. Asagi
-1. Bekko
-1. Goshiki
-1. Hikarimono
-1. Kohaku
-1. Koromo
-1. Sanke
-1. Showa
-1. Shusui
-1. Utsurimono  
-
-## Requirements
-
-To run the application, you would need:
-
-* CUDA device with global RAM >= 4 GB (tested with GTX 980)
-* Python 2.7.x
-* Virtualenv (optional. For isolated environment)
 
 
