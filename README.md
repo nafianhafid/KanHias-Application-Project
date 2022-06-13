@@ -39,7 +39,8 @@ Kan Hias is Application of Prediction Koi Fish type and Marketplace for buying a
 3. Camera Permission
 
 ## How to Install
-You can download this application by accessing the link below. After it successfully downloaded, you can install it on you Android phone and use the application. \br
+You can download this application by accessing the link below. After it successfully downloaded, you can install it on you Android phone and use the application.
+
 [Kan Hias Apk](https://drive.google.com/file/d/1QSspSBlp_6WHWgg4Bza5wFJS0NTaKz1N/view)
 
 
