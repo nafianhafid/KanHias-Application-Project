@@ -27,9 +27,11 @@ Here is our repository for Bangkit 2022 Capstone project.
 Kan Hias is Application of Prediction Koi Fish type and Marketplace for buying and selling koi fish
 
 ## Repositories
-| Mobile Development | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/master)                 |
-| Cloud Computing    | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/main/Cloud%20Computing) |
-| Machine Learning   | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/main/Machine%20Learning)|
+|     Branch Name    |                                    Link Github                                           |
+| :----------------: | :---------------------------------------------------------------------------------------:|
+| Mobile Development | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/main/Mobile%20Development) |
+| Cloud Computing    | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/main/Cloud%20Computing)    |
+| Machine Learning   | [GitHub](https://github.com/nafianhafid/Capstone-Project/tree/main/Machine%20Learning)   |  
 
 ## Requirement to Install
 1. Android version 5.0 lolipop to up
@@ -37,7 +39,7 @@ Kan Hias is Application of Prediction Koi Fish type and Marketplace for buying a
 3. Camera Permission
 
 ## How to Install
-You can download this application by accessing the link below. After it successfully downloaded, you can install it on you Android phone and use the application.
+You can download this application by accessing the link below. After it successfully downloaded, you can install it on you Android phone and use the application. \br
 [Kan Hias Apk](https://drive.google.com/file/d/1QSspSBlp_6WHWgg4Bza5wFJS0NTaKz1N/view)
 
 
