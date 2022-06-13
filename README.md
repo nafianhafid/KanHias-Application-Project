@@ -3,7 +3,7 @@
 Bangkit Capstone Team ID : C22-PS290 <br>
 Here is our repository for Bangkit 2022 Capstone project.
 
-## Our Team
+## Our Team :student:
 
 |              Name              |   Learning Path    | Bangkit ID |
 | :----------------------------: | :----------------: | :--------: |
@@ -14,7 +14,7 @@ Here is our repository for Bangkit 2022 Capstone project.
 |           Faqih Raihan         | Machine Learning   | M2008G0854 |
 |   Hafid Siraj Aurakhmah Witra  | Mobile Development | A7308F2635 |
 
-## About Kan Hias Project
+## About Kan Hias Project 
 
 Kan Hias is Application of Prediction Koi Fish type and Marketplace for buying and selling koi fish
 
@@ -49,30 +49,4 @@ To run the application, you would need:
 * Python 2.7.x
 * Virtualenv (optional. For isolated environment)
 
-The programs expect batik image files (jpg/png) to be grouped by their classes. In this experiment, below directory structures are used:
 
-```
-train_data_dir/
-	Asagi/*.jpg
-	Bekko/*.jpg
-	Goshiki/*.jpg
-	Hikarimono/*.jpg
-	Kohaku/*.jpg
-  Koromo/*.jpg
-  Sanke/*.jpg
-  Showa/*.jpg
-  Shusui/*.jpg
-  Utsurimono/*.jpg
-
-test_data_dir/
-	Asagi/*.jpg
-	Bekko/*.jpg
-	Goshiki/*.jpg
-	Hikarimono/*.jpg
-	Kohaku/*.jpg
-  Koromo/*.jpg
-  Sanke/*.jpg
-  Showa/*.jpg
-  Shusui/*.jpg
-  Utsurimono/*.jpg
-```
