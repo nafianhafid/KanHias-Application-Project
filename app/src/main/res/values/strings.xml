@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kanhias</string>
+    <string name="log_in">Log In</string>
+    <string name="deteksi_ikan">Deteksi Ikan</string>
+    <string name="Ecplain">Koi specifically comes from Japanese which means carp. Koi are usually kept as decorations with the aim of beauty and luck inside and outside the house, because koi fish are believed to bring good luck. There are several types of koi fish that are distinguished depending on their color, pattern, and size.</string>
+    <string name="bold_satarter">This application will help you to recognize the type of koi fish by just doing a scanner</string>
+    <string name="title_activity_marketplace">MarketplaceActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile_dc">koi fish detection</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jenis_ikan_koi">Jenis Ikan Koi</string>
+    <string name="capture">capture of koi</string>
+</resources>
