@@ -1,4 +1,4 @@
-# Kan Hias - Your Koi Fish Smart Marketplace
+# Kan Hias - Your Koi Fish Smart Marketplace :tropical_fish:
 
 Bangkit Capstone Team ID : C22-PS290 <br>
 Here is our repository for Bangkit 2022 Capstone project.
